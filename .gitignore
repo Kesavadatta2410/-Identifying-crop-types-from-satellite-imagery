@@ -1,0 +1,15 @@
+# Ignore datasets
+data/
+eurosat_data/
+processed/
+dow/
+
+# Ignore model weights
+*.pth
+
+# Ignore big files
+*.tif
+
+# Python virtual environment folders
+venv/
+.env/
