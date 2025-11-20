@@ -3,7 +3,7 @@ data/
 eurosat_data/
 processed/
 dow/
-
+models/
 # Ignore model weights
 *.pth
 
