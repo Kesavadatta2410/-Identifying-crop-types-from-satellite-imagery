@@ -4,6 +4,9 @@ eurosat_data/
 processed/
 dow/
 models/
+results_coders/
+results_transfer/
+results_spectral/
 # Ignore model weights
 *.pth
 

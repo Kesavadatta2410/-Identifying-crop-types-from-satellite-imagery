@@ -31,7 +31,7 @@ CONFIG = {
     'num_workers': 2,
     'use_amp': True,
     'device': torch.device('cuda' if torch.cuda.is_available() else 'cpu'),
-    'temporal_seq_length': 45,  # Simulate 36 timesteps like paper
+    'temporal_seq_length': 36,  # Simulate 36 timesteps like paper
     'missing_rate': 0.2,  # 20% missing data rate
 }
 
